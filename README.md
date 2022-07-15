@@ -1,0 +1,2 @@
+# Internet-Archive-uploads
+容量が大きくGitHubにアップロードする事が難しいためInternet Archiveにアップロードした写真と動画の一覧
